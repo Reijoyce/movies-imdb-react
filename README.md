@@ -1,7 +1,9 @@
 #Description
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-Responsive ReactJS 'The Movie Database' (IMDb)
-Click to search your movie.
+Responsive ReactJS 'The Movie Database' (IMDb).
+
+Click to search your movie.  
+
 Also you can add if you want watch or already watched
 
 
